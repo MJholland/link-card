@@ -1,0 +1,10 @@
+font-family: 'Dosis', sans-serif;
+
+html {
+	box-sizing: border-box;
+  font-family: georgia serif;
+}
+
+*, *::before, *::after {
+	box-sizing: inherit;
+}
